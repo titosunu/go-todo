@@ -1,10 +1,4 @@
-import {
-  Flex,
-  resolveStyleConfig,
-  Spinner,
-  Stack,
-  Text,
-} from "@chakra-ui/react";
+import { Flex, Spinner, Stack, Text } from "@chakra-ui/react";
 import TodoItem from "./TodoItem";
 import { useQuery } from "@tanstack/react-query";
 
