@@ -41,7 +41,7 @@ This is a simple To-Do List application developed using the following technologi
 4. **MongoDB Setup:**
     - Ensure MongoDB is running on your machine.
     - You can use MongoDB ATLAS
-    - Create a `.env` file `MONGO_URI=`
+    - Create a `.env` file, `MONGO_URI=`
 
 </p>
 
