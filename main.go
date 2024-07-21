@@ -17,8 +17,8 @@ import (
 
 type Todo struct {
 	Id        primitive.ObjectID 	`json:"_id,omitempty" bson:"_id,omitempty"`
-	Completed bool   							`json:"completed"`
-	Body      string 							`json:"body"`
+	Completed bool   		`json:"completed"`
+	Body      string 		`json:"body"`
 }
 
 var collection *mongo.Collection
